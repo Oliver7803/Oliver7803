@@ -37,5 +37,5 @@ Lots of competition other people who are making simlar app or other apps that ex
     b. Applications approved/rejected 
     c. Applications over time 
     d. Most active areas of Bristol
+<img width="1270" height="718" alt="image" src="https://github.com/user-attachments/assets/5891d4f7-e090-49b2-944f-9209dd58fcc3" />
 
-![Insert your Context Diagram Here](images/context.png)
