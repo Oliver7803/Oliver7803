@@ -6,16 +6,16 @@
 
 - As a **Home owner**, I want to search planning applications by using my post-code or using my address so I can see what the progress of my own application is.
 - As a **Member of the public**, I want to see a list of planning applications so I know which ones are the most likely to be approved and how often they are and if any are being refused.
-- As a **Neighbor**, I want to search planning applications on a map to see what is being approved near me so that I can see planning in the area without knowing exact post codes or address and its easy to view.
+- As a **Neighbour**, I want to search planning applications on a map to see what is being approved near me so that I can see planning in the area without knowing exact post codes or address and its easy to view.
 - As a **Developer**, I want to search on a map planning applications to see what areas of Bristol have the most planning applications being approved so I know where the most construction is happening.
-- As a **Analyst** I want to use the website to view data and analysis trends to write a report.
+- As an **Analyst** I want to use the website to view data and analysis trends to write a report.
 - As a **Council officer**, I want to make sure that the data is updated automatically so that people always have up to date automatic information.
   
 ### Actors
 
 - **Home owner** - They search the site to check the status of their own planning application's.
 - **Member of the public** - See planning applications in a list to know which are most likely to be approved.
-- **Neighbor** – Can look up planning applications near there home to see what is being built near by.
+- **Neighbour** – Can look up planning applications near there home to see what is being built near by.
 - **Developer** – Use the site to see what planning applications are being approved and where.
 - **Analyst** - views the statistics and other data to analyze trends in Bristol planning applications.
 - **Council officer** - They don't use the website directly but they are responsible for managing the planning data and publishing it to Bristol Open Data which we then use on our website.
