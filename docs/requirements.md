@@ -8,6 +8,7 @@
 - As a **Member of the public**, I want to see a list of planning applications so I know which ones are the most likely to be approved and how often they are and if any are being refused.
 - As a **Neighbor**, I want to search planning applications on a map to see what is being approved near me so that I can see planning in the area without knowing exact post codes or address and its easy to view.
 - As a **Developer**, I want to search on a map planning applications to see what areas of Bristol have the most planning applications being approved so I know where the most construction is happening.
+- As a **Analyst** I want to use the website to view data and analysis trends to write a report.
 - As a **Council officer**, I want to make sure that the data is updated automatically so that people always have up to date automatic information.
   
 ### Actors
