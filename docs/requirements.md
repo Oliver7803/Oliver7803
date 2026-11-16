@@ -13,8 +13,9 @@
 ### Actors
 
 - **Home owner** - They search the site to check the status of their own planning application's.
-- **Member of the public** – Can look up planning applications near there home to see what is being built near by.
-- **Architect or builder** – Use the site to see what planning applications are being approved and where.
+- **Member of the public** - See planning applications in a list to know which are most likely to be approved.
+- **Neighbor** – Can look up planning applications near there home to see what is being built near by.
+- **Developer** – Use the site to see what planning applications are being approved and where.
 - **Analyst** - views the statistics and other data to analyze trends in Bristol planning applications.
 - **Council officer** - They don't use the website directly but they are responsible for managing the planning data and publishing it to Bristol Open Data which we then use on our website.
 - **Bristol Open Data (external website)** – This is where we pull our data from for use on our website it is updated regularly and keeps all of our data up to date.
