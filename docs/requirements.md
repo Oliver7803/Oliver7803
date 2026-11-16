@@ -4,18 +4,18 @@
 
 ### User stories
 
-- As a **home owner**, I want to search planning applications by using my post-code or using my address so I can see what the progress of my own application is.
+- As a **Home owner**, I want to search planning applications by using my post-code or using my address so I can see what the progress of my own application is.
 - As a **Member of the public**, I want to see a list of planning applications so I know which ones are the most likely to be approved and how often they are and if any are being refused.
-- As a **neighbor**, I want to search planning applications on a map to see what is being approved near me so that I can see planning in the area without knowing exact post codes or address and its easy to view.
+- As a **Neighbor**, I want to search planning applications on a map to see what is being approved near me so that I can see planning in the area without knowing exact post codes or address and its easy to view.
 - As a **Developer**, I want to search on a map planning applications to see what areas of Bristol have the most planning applications being approved so I know where the most construction is happening.
-- As a **council officer**, I want to make sure that the data is updated automatically so that people always have up to date automatic information.
+- As a **Council officer**, I want to make sure that the data is updated automatically so that people always have up to date automatic information.
   
 ### Actors
 
 - **Home owner** - They search the site to check the status of their own planning application's.
-- **member of the public** – Can look up planning applications near there home to see what is being built near by.
-- **architect or builder** – Use the site to see what planning applications are being approved and where.
-- **analyst** - views the statistics and other data to analyze trends in Bristol planning applications.
+- **Member of the public** – Can look up planning applications near there home to see what is being built near by.
+- **Architect or builder** – Use the site to see what planning applications are being approved and where.
+- **Analyst** - views the statistics and other data to analyze trends in Bristol planning applications.
 - **Council officer** - They don't use the website directly but they are responsible for managing the planning data and publishing it to Bristol Open Data which we then use on our website.
 - **Bristol Open Data (external website)** – This is where we pull our data from for use on our website it is updated regularly and keeps all of our data up to date.
 ### Use Cases
