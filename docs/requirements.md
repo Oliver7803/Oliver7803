@@ -35,6 +35,19 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | Results should load within 2 seconds. Page should work on mobile. |
 | **Issues** | Decide whether partial postcodes (e.g. "BS1") are allowed. |
 
+
+| UC2 | See planning applications in a list |
+| --- | --- |
+| **Description** | The user looks at a large list of planning applications to see the frequency they are approved or refused. Source: Member of the public user story. |
+| **Actors** | Member of the public, Bristol Open Data |
+| **Assumptions** | Pre: the planning data has been loaded from Bristol Open Data. Post: the user can see a full list of applications and their status. |
+| **Steps** | 1. User opens the list page. <br> 2. Website displays all applications. <br> 3. User selects an application. <br> 4. Website shows its details and current status. |
+| **Variations** | 2a. User filters the list by status: Website shows only matching applications <br> 2b. User sorts the list by different option (size, newest first). Website reorders the list. <br> 2c. The list is too long for just 1 page: Website splits the list into multiple pages  |
+| **Non-functional** | Results should load within 4 seconds. <br> Page should work on mobile. <br> Make it easy to read long list using colour coding green for approved red for refused.  |
+| **Issues** | Decide how many applications are visible on each page. <br> Decide whether to show a count of each number of refused or approved applications. |
+
+
+
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **Description** | TODO: Goal to be achieved by use case and sources for requirement |
