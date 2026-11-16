@@ -27,11 +27,11 @@ TODO: Describe each use case (at least one per team member).
 
 | UC1 | Search planning applications by postcode or address |
 | --- | --- |
-| **Description** | The user searches by postcode or address to find a planning application and see its status. Source: Home owner user story. |
+| **Description** | The user searches the website by postcode or address to check its progress  |
 | **Actors** | Home owner, Bristol Open Data |
-| **Assumptions** | Pre: the planning data has been loaded from Bristol Open Data. Post: the user can see matching applications and their status. |
-| **Steps** | 1. User opens the search page. <br> 2. User enters a postcode or address. <br> 3. System checks the input is valid. <br> 4. System displays matching applications. <br> 5. User selects an application. <br> 6. System shows its details and current status. |
-| **Variations** | 3a. Invalid postcode: system shows an error message. <br> 4a. No matches: system shows "No applications found". |
+| **Assumptions** | Pre: the planning data has been loaded from Bristol Open Data ready to be accessed. Post: the user can see matching applications and their current status. |
+| **Steps** | 1. User opens the search page. <br> 2. User enters a postcode or address. <br> 3. website checks the input is valid. <br> 4. website displays matching applications. <br> 5. website selects an application. <br> 6. website shows its details and current status. |
+| **Variations** | 3a. Invalid postcode: website shows an error message as address is not valid. <br> 4a. No matches: system shows "No applications found" because there is no relevant applications. |
 | **Non-functional** | Results should load within 2 seconds. Page should work on mobile. |
 | **Issues** | Decide whether partial postcodes (e.g. "BS1") are allowed. |
 
