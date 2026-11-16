@@ -3,17 +3,14 @@
 ## User Needs
 
 ### User stories
-A person who was using the system would first interact with it they would search planning information to see the results.
-A person who would want to just see a list of all planing applications would just search planning applications this would benefit people who just want to see what planning applications are getting approved.
-Another case would be a person who wanted to find by location on a map this would be a person who wants to see planning in a location that they may not know the post code or see what areas have the most planning applications easily.
-A person who just wants to see the raw data of the planning applications would just view statistics 
-A person who wants to view planning applications by post code would search using the filter post code or also by using address this would be a extra filter used this benefits people who want to see there planning permission and the status of it.
 
 ### Actors
-The first actor would be the user as they are the person who is searching the webpage for information on planning permission this is the main person who will be using the page.
-
-The other actor would be the council officer this would be the person who would mange the data and just it through Bristol open data that will automatically update the web page they may also use the web page to view statistics.
-
+• **Home owner** - They search the site to check the status of their own planning application's.
+• **member of the public** – Can look up planning applications near there home to see what is being built near by.
+• **architect or builder** – Use the site to see what planning applications are being approved and where.
+• **analyst** - views the statistics and other data to analyze trends in Bristol planning applications.
+• **Council officer** - They don't use the website directly but they are responsible for managing the planning data and publishing it to Bristol Open Data which we then use on our website.
+• **Bristol Open Data (external website)** – This is where we pull our data from for use on our website it is updated regularly and keeps all of our data up to date.
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
