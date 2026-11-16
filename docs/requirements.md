@@ -3,11 +3,16 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
+A person who was using the system would first interact with it they would search planning information to see the results.
+A person who would want to just see a list of all planing applications would just search planning applications this would benefit people who just want to see what planning applications are getting approved.
+Another case would be a person who wanted to find by location on a map this would be a person who wants to see planning in a location that they may not know the post code or see what areas have the most planning applications easily.
+A person who just wants to see the raw data of the planning applications would just view statistics 
+A person who wants to view planning applications by post code would search using the filter post code or also by using address this would be a extra filter used this benefits people who want to see there planning permission and the status of it.
 
 ### Actors
-TODO: List and describe the actors/users for this product.
+The first actor would be the user as they are the person who is searching the webpage for information on planning permission this is the main person who will be using the page.
+
+The other actor would be the council officer this would be the person who would mange the data and just it through Bristol open data that will automatically update the web page they may also use the web page to view statistics.
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
@@ -25,7 +30,7 @@ TODO: Describe each use case (at least one per team member).
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
 
-TODO: Your Use-Case diagram should include all use-cases.
+Use-Case diagram
 
 [![Insert your Use-Case Diagram Here](images/use-case.png)](https://private-user-images.githubusercontent.com/344730781/684810338-5891d4f7-e090-49b2-944f-9209dd58fcc3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQ4Mjc5MDgsIm5iZiI6MTc5NDgyNzYwOCwicGF0aCI6Ii8zNDQ3MzA3ODEvNjg0ODEwMzM4LTU4OTFkNGY3LWUwOTAtNDliMi05NDRmLTkyMDlkZDU4ZmNjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTExNlQxMTEzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYTYzOGM4MjIyZWNlYjg1MmVhOWQ5M2ZmOTIyNGFkMjg1MDA5MDJmMmNjMjRmZWY2OWMxZWZjNDdhNzMyMDQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.2JRgIFNZdXrQ3eJNiunsclufW8GMVtXVp1XvFaKCDFQ)<img width="1270" height="718" alt="image" src="https://github.com/user-attachments/assets/c4b2d387-a646-4a48-82aa-2559aba25420" />
 
