@@ -60,8 +60,8 @@ TODO: Describe each use case (at least one per team member).
 | **Issues** | Decide how many pins are visible and when depending on zoom level. <br> Decide whether to stack pins displaying a number to see stacked planning applications easily and separate pins as the user zooms in closer. |
 
 Use-Case diagram
+<img width="1414" height="840" alt="image" src="https://github.com/user-attachments/assets/a8e0b77f-d301-4cd1-b099-3d7192dd6e5b" />
 
-[![Insert your Use-Case Diagram Here](images/use-case.png)](https://private-user-images.githubusercontent.com/344730781/684810338-5891d4f7-e090-49b2-944f-9209dd58fcc3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQ4Mjc5MDgsIm5iZiI6MTc5NDgyNzYwOCwicGF0aCI6Ii8zNDQ3MzA3ODEvNjg0ODEwMzM4LTU4OTFkNGY3LWUwOTAtNDliMi05NDRmLTkyMDlkZDU4ZmNjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTExNlQxMTEzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYTYzOGM4MjIyZWNlYjg1MmVhOWQ5M2ZmOTIyNGFkMjg1MDA5MDJmMmNjMjRmZWY2OWMxZWZjNDdhNzMyMDQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.2JRgIFNZdXrQ3eJNiunsclufW8GMVtXVp1XvFaKCDFQ)<img width="1270" height="718" alt="image" src="https://github.com/user-attachments/assets/c4b2d387-a646-4a48-82aa-2559aba25420" />
 
 
 ## Software Requirements Specification
