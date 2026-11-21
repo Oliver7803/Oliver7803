@@ -59,18 +59,6 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | Results should load within 4 seconds. <br> Page should work on mobile e.g. pinch to zoom. <br> Make it easier to see areas with the most data using colours such as red, orange and green depending on number of applications in one area.  |
 | **Issues** | Decide how many pins are visible and when depending on zoom level. <br> Decide whether to stack pins displaying a number to see stacked planning applications easily and separate pins as the user zooms in closer. |
 
-
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
-| -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
-
-
 Use-Case diagram
 
 [![Insert your Use-Case Diagram Here](images/use-case.png)](https://private-user-images.githubusercontent.com/344730781/684810338-5891d4f7-e090-49b2-944f-9209dd58fcc3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQ4Mjc5MDgsIm5iZiI6MTc5NDgyNzYwOCwicGF0aCI6Ii8zNDQ3MzA3ODEvNjg0ODEwMzM4LTU4OTFkNGY3LWUwOTAtNDliMi05NDRmLTkyMDlkZDU4ZmNjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTExNlQxMTEzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYTYzOGM4MjIyZWNlYjg1MmVhOWQ5M2ZmOTIyNGFkMjg1MDA5MDJmMmNjMjRmZWY2OWMxZWZjNDdhNzMyMDQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.2JRgIFNZdXrQ3eJNiunsclufW8GMVtXVp1XvFaKCDFQ)<img width="1270" height="718" alt="image" src="https://github.com/user-attachments/assets/c4b2d387-a646-4a48-82aa-2559aba25420" />
