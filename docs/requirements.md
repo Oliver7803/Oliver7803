@@ -36,6 +36,7 @@ TODO: Describe each use case (at least one per team member).
 | **Issues** | Decide whether partial postcodes (e.g. "BS1") are allowed. |
 
 
+
 | UC2 | See planning applications in a list |
 | --- | --- |
 | **Description** | The user looks at a large list of planning applications to see the frequency they are approved or refused. Source: Member of the public user story. |
@@ -46,6 +47,17 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | Results should load within 4 seconds. <br> Page should work on mobile. <br> Make it easy to read long list using colour coding green for approved red for refused.  |
 | **Issues** | Decide how many applications are visible on each page. <br> Decide whether to show a count of each number of refused or approved applications. |
 
+
+
+| UC3 | See planning applications on a map |
+| --- | --- |
+| **Description** | The user looks at map of Bristol to see where planning permissions are being approved and where the most applications are. Source: Developer user story. |
+| **Actors** | Developer, Bristol Open Data |
+| **Assumptions** | Pre: the planning data has been loaded from Bristol Open Data. Post: the user can see a limited number of applications depending on where they look on the Map and click on the points to see details about the planning projects. |
+| **Steps** | 1. User opens the map page. <br> 2. Website opens the map and displays information saying zoom in to see data. <br> 3. User moves to area they want data about applications. <br> 4. Website shows data when they zoom in enough to see all of the pins easily. <br> 5. User clicks on the pins to see more details <br> 6. website displays details on planning permission on pin they click. |
+| **Variations** | 2a. User filters the list by status: Website shows only matching applications <br> 2b. User sorts the list by different option (size, newest first). Website reorders the list. <br> 2c. The list is too long for just 1 page: Website splits the list into multiple pages  |
+| **Non-functional** | Results should load within 4 seconds. <br> Page should work on mobile. <br> make it easier to see areas with the most data using colors such as red orange and green depending on number of applications in one area.  |
+| **Issues** | Decide how many pins are visible and when depending on zoom level. <br> Decide whether to stack pins displaying a number to see stacked planning permissions easily and separate pins as the user zooms in closer. <br> display all details in a list if a stack of pins is clicked on. |
 
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
