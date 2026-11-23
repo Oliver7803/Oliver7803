@@ -66,10 +66,18 @@ Use-Case diagram
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
+- FR1: The system shall allow the user search for planning application's using postcodes. (Uc1)
+- FR2: The system shall allow the user search for planning applications using address. (Uc1)
+- FR3: The system shall display an error message for invalid post code or address. (Uc1)
+- FR4: The system shall display a message when no relevant data is found. (Uc1)
+- FR5: The system shall display a list when a user clicks on the list page. (Uc2)
+- FR6: The system v allow the user to filter the list by status of the application (approved, pending, refused). (Uc2)
+- FR7: The system v allow the user to sort the list into different orders (newest, oldest). (Uc2)
+- FR8: The system shall split the list into multiple pages if the list is too long. (Uc2)
+- FR9: The system shall display a map when the map button is pressed. (Uc3)
+- FR10: The system shall show details on application when a pin is clicked. (Uc3)
+- FR11: The system shall show a list of application details when a stack of pins is clicked. (Uc3)
+- FR12: The system shall allow the user to search the map with postcode to move to areas of the map faster. (Uc3)
 
 
 ### Non-Functional Requirements
