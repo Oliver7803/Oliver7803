@@ -44,7 +44,7 @@ TODO: Describe each use case (at least one per team member).
 | **Assumptions** | Pre: the planning data has been loaded from Bristol Open Data. Post: the user can see a full list of applications and their status. |
 | **Steps** | 1. User opens the list page. <br> 2. Website displays all applications. <br> 3. User selects an application. <br> 4. Website shows its details and current status. |
 | **Variations** | 2a. User filters the list by status: Website shows only matching applications <br> 2b. User sorts the list by different option (size, newest first). Website reorders the list. <br> 2c. The list is too long for just 1 page: Website splits the list into multiple pages  |
-| **Non-functional** | Results should load within 4 seconds. <br> Page should work on mobile. <br> Make it easy to read long list using colour coding green for approved red for refused.  |
+| **Non-functional** | Results should load within 2 seconds. <br> Page should work on mobile. <br> Make it easy to read long list using colour coding green for approved red for refused.  |
 | **Issues** | Decide how many applications are visible on each page. <br> Decide whether to show a count of each number of refused or approved applications. |
 
 
@@ -56,7 +56,7 @@ TODO: Describe each use case (at least one per team member).
 | **Assumptions** | Pre: the planning data has been loaded from Bristol Open Data. Post: the user can see a limited number of applications depending on where they look on the map. |
 | **Steps** | 1. User opens the map page. <br> 2. Website asks the user to zoom in to see data. <br> 3. User zooms in to see data in the area of their choosing. <br> 4. Website shows data when they zoom in enough to see all of the pins easily. <br> 5. User clicks on a pin to see more details. <br> 6. Website displays details of planning application dependent on which pin they click. |
 | **Variations** | 2a. Map data fails to load from Bristol Open Data: Website displays an error message. <br> 3a. User searches by postcode or area using search bar: Website displays pins in that area to see pins quickly without scrolling. <br> 3b. User uses a filter: Website displays data dependent on what filter used (Approved, refused, pending). <br> 4a. The user zooms into an area with no applications: Website displays a message no application data available. <br> 5a. User clicks a stack of pins: Website displays all details in a list. |
-| **Non-functional** | Results should load within 4 seconds. <br> Page should work on mobile e.g. pinch to zoom. <br> Make it easier to see areas with the most data using colours such as red, orange and green depending on number of applications in one area.  |
+| **Non-functional** | Results should load within 2 seconds. <br> Page should work on mobile e.g. pinch to zoom. <br> Make it easier to see areas with the most data using colours such as red, orange and green depending on number of applications in one area.  |
 | **Issues** | Decide how many pins are visible and when depending on zoom level. <br> Decide whether to stack pins displaying a number to see stacked planning applications easily and separate pins as the user zooms in closer. |
 
 Use-Case diagram
@@ -84,11 +84,9 @@ Use-Case diagram
 
 
 ### Non-Functional Requirements
-- NFR1:
-
-
-
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
-
-Indicate which UC the requirement comes from.
+- NFR1: (Efficiency) The System shall load results in 2 seconds. (UC1, UC2, UC3)
+- NFR2: (Portability) The system shall work on mobile, tablet and desktop. (UC1, UC2, UC3)
+- NFR3: (Portability) The system shall allow the user to pinch to zoom on the map. (UC3)
+- NFR4: (Usability) The system shall use colour coded lists based on application Refused, Pending, Approved (Red, Orange, Green). (UC2)
+- NFR5: (Usability) The system shall colour code map areas (Red, Orange, Green) dependent on number of applications. (UC3)
+- NFR6: (Reliability) The system shall refresh the data from Bristol Open Data at least once every 24 hours. (UC1, UC2, UC3)
