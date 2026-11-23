@@ -66,21 +66,28 @@ Use-Case diagram
 
 ## Software Requirements Specification
 ### Functional requirements
-- FR1: The system shall allow the user search for planning application's using postcodes. (Uc1)
-- FR2: The system shall allow the user search for planning applications using address. (Uc1)
-- FR3: The system shall display an error message for invalid post code or address. (Uc1)
-- FR4: The system shall display a message when no relevant data is found. (Uc1)
-- FR5: The system shall display a list when a user clicks on the list page. (Uc2)
-- FR6: The system v allow the user to filter the list by status of the application (approved, pending, refused). (Uc2)
-- FR7: The system v allow the user to sort the list into different orders (newest, oldest). (Uc2)
-- FR8: The system shall split the list into multiple pages if the list is too long. (Uc2)
-- FR9: The system shall display a map when the map button is pressed. (Uc3)
-- FR10: The system shall show details on application when a pin is clicked. (Uc3)
-- FR11: The system shall show a list of application details when a stack of pins is clicked. (Uc3)
-- FR12: The system shall allow the user to search the map with postcode to move to areas of the map faster. (Uc3)
+- FR1: The system shall allow the user to search for planning applications using postcodes. (UC1)
+- FR2: The system shall allow the user to search for planning applications using address. (UC1)
+- FR3: The system shall display an error message for invalid postcode or address. (UC1)
+- FR4: The system shall display a message when no relevant data is found. (UC1, UC3)
+- FR5: The system shall display a list when a user clicks on the list page. (UC2)
+- FR6: The system shall allow the user to filter the list by status of the application (approved, pending, refused). (UC2)
+- FR7: The system shall allow the user to sort the list into different orders (newest, oldest). (UC2)
+- FR8: The system shall split the list into multiple pages if the list is too long. (UC2)
+- FR9: The system shall display a map when the map button is pressed. (UC3)
+- FR10: The system shall show details on application when a pin is clicked. (UC3)
+- FR11: The system shall show a list of application details when a stack of pins is clicked. (UC3)
+- FR12: The system shall allow the user to search the map with postcode to move to areas of the map faster. (UC3)
+- FR13: The system shall allow the user to filter the map pins via status. (UC3)
+- FR14: The system shall allow the user to view the details on an application when clicked in a list. (UC2)
+- FR15: The system shall load its data from Bristol Open Data and will display an error message for the website if it fails. (UC2, UC3)
 
 
 ### Non-Functional Requirements
+- NFR1:
+
+
+
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
